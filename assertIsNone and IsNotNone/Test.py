@@ -1,5 +1,5 @@
 """
-asertIsNone should return nothing and not should return a value to pass the test
+assertIsNone should return nothing and not should return a value to pass the test
 """
 import unittest
 from selenium import webdriver

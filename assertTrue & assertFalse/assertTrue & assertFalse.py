@@ -1,5 +1,5 @@
 """
-asertTrue & assertFalse
+assertTrue & assertFalse
 If conditions returns true the the test pass
 """
 
